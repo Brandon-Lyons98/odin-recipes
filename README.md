@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Project - Recipe Website Project
+This website is a simple recipe project that uses HTML anchor tags to switch between multiple recipe pages.
